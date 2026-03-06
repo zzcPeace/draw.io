@@ -19,7 +19,7 @@
         <mxCell id="LkAkem1tcMUCxKIT7NYj-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="点云" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="LkAkem1tcMUCxKIT7NYj-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="新视角相机位姿的确定" vertex="1">
+        <mxCell id="LkAkem1tcMUCxKIT7NYj-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="新视角相机位姿的确定-&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; color: rgb(43, 45, 49); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;B-spline&lt;/span&gt;&lt;/strong&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="650" y="180" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-18" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LkAkem1tcMUCxKIT7NYj-17" value="">
@@ -34,14 +34,11 @@
         <mxCell id="LkAkem1tcMUCxKIT7NYj-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="loss" vertex="1">
           <mxGeometry height="80" width="80" x="360" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="LkAkem1tcMUCxKIT7NYj-13" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LkAkem1tcMUCxKIT7NYj-4" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LkAkem1tcMUCxKIT7NYj-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; color: rgb(43, 45, 49); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;B-spline&lt;/span&gt;&lt;/strong&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="650" y="80" as="geometry" />
-        </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="点云投影" vertex="1">
           <mxGeometry height="30" width="60" x="520" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LkAkem1tcMUCxKIT7NYj-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LkAkem1tcMUCxKIT7NYj-4" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-16" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.665;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="LkAkem1tcMUCxKIT7NYj-6">
           <mxGeometry relative="1" as="geometry" />
