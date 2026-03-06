@@ -20,7 +20,7 @@
           <mxGeometry height="60" width="120" x="350" y="180" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="新视角相机位姿的确定-&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; color: rgb(43, 45, 49); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;B-spline&lt;/span&gt;&lt;/strong&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="650" y="180" as="geometry" />
+          <mxGeometry height="60" width="120" x="630" y="220" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-18" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LkAkem1tcMUCxKIT7NYj-17" value="">
           <mxGeometry relative="1" as="geometry" />
