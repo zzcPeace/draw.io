@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="深度图" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="250" as="geometry" />
+          <mxGeometry height="60" width="120" x="500" y="240" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-38" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="LkAkem1tcMUCxKIT7NYj-6">
           <mxGeometry relative="1" as="geometry" />
