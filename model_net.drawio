@@ -61,6 +61,9 @@
         <mxCell id="LkAkem1tcMUCxKIT7NYj-30" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.492;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" target="LkAkem1tcMUCxKIT7NYj-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LkAkem1tcMUCxKIT7NYj-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; color: rgb(43, 45, 49); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;“设计一套 3D 场景重建与优化管线，利用深度图的生成式补全点云方案，来解决 3DGS 在稀疏/遮挡视角下点云缺失的致命问题。”&lt;/span&gt;&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="60" width="470" x="220" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
