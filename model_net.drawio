@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="新视角深度图" vertex="1">
-          <mxGeometry height="60" width="120" x="350" y="340" as="geometry" />
+          <mxGeometry height="60" width="120" x="340" y="340" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="loss" vertex="1">
           <mxGeometry height="50" width="60" x="380" y="415" as="geometry" />
