@@ -41,7 +41,7 @@
           <mxGeometry height="60" width="120" x="150" y="340" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="3dgs渲染" vertex="1">
-          <mxGeometry height="60" width="120" x="150" y="260" as="geometry" />
+          <mxGeometry height="60" width="120" x="150" y="250" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-26" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LkAkem1tcMUCxKIT7NYj-8" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-42" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" target="LkAkem1tcMUCxKIT7NYj-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LkAkem1tcMUCxKIT7NYj-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="下采样" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
