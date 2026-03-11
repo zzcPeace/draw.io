@@ -11,13 +11,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(43, 45, 49); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;单张或极少量（如2-3张）参考图像&lt;/span&gt;" vertex="1">
-          <mxGeometry height="66" width="133" x="-66" y="210" as="geometry" />
+          <mxGeometry height="66" width="133" x="-53" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-61" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="212" y="336" />
+              <mxPoint x="36" y="336" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="构建轻量级代价体" vertex="1">
-          <mxGeometry height="66" width="89" x="-62" y="311" as="geometry" />
+          <mxGeometry height="66" width="89" x="168" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-50" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -28,10 +33,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预测粗糙深度&lt;br&gt;3D cache" vertex="1">
-          <mxGeometry height="60" width="120" x="-5" y="424.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="提取全局场景&lt;div&gt;隐式特征&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="104" y="224" as="geometry" />
+          <mxGeometry height="60" width="120" x="-24" y="415" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-13" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-11">
           <mxGeometry relative="1" as="geometry" />
