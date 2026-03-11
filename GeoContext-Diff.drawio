@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="-0goTfr7-5pnKv3Hw-mH">
-    <mxGraphModel dx="858" dy="486" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1258" dy="486" grid="0" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,11 +13,16 @@
         <mxCell id="Qp7IimhHCW0quF0CK1ch-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="构建轻量级代价体" vertex="1">
           <mxGeometry height="66" width="89" x="197" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-15" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Qp7IimhHCW0quF0CK1ch-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-46" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="202" y="331" />
+              <mxPoint x="202" y="356" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预测粗糙深度&lt;br&gt;提取3D cache" vertex="1">
-          <mxGeometry height="60" width="120" x="301" y="222" as="geometry" />
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预测粗糙深度&lt;br&gt;3D cache" vertex="1">
+          <mxGeometry height="60" width="120" x="-5" y="424.5" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="提取全局场景&lt;div&gt;隐式特征&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="436" y="222" as="geometry" />
@@ -89,8 +94,42 @@
         <mxCell id="Qp7IimhHCW0quF0CK1ch-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="扩散模型" vertex="1">
           <mxGeometry height="30" width="102" x="341.25" y="445" as="geometry" />
         </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-40" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Qp7IimhHCW0quF0CK1ch-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="高几何一致性的&lt;br&gt;新视角RGB图像" vertex="1">
-          <mxGeometry height="60" width="120" x="581" y="356" as="geometry" />
+          <mxGeometry height="60" width="120" x="580" y="357" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-41" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524.4450788826778" y="505.73193569841055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="新视角高精度深度估计" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-44" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="338.86516071188043" y="507.79310344827593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预测深度置信度图" vertex="1">
+          <mxGeometry height="60" width="120" x="404" y="478" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-47" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="55" y="511" />
+              <mxPoint x="55" y="486" />
+            </Array>
+            <mxPoint x="49.83696667901404" y="485.6692589069236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="置信度过滤" vertex="1">
+          <mxGeometry height="60" width="120" x="218" y="481" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="融合" vertex="1">
+          <mxGeometry height="30" width="60" x="87" y="503" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
