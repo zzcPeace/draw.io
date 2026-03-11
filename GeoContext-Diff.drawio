@@ -11,35 +11,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(43, 45, 49); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;单张或极少量（如2-3张）参考图像&lt;/span&gt;" vertex="1">
-          <mxGeometry height="66" width="133" x="-53" y="240" as="geometry" />
+          <mxGeometry height="66" width="133" x="89" y="199" as="geometry" />
         </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-61" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="212" y="336" />
-              <mxPoint x="36" y="336" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="构建轻量级代价体" vertex="1">
-          <mxGeometry height="66" width="89" x="168" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-50" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-46" y="563" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-58" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-11">
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-70" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预测粗糙深度&lt;br&gt;3D cache" vertex="1">
-          <mxGeometry height="60" width="120" x="-24" y="415" as="geometry" />
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="构建轻量级代价体" vertex="1">
+          <mxGeometry height="66" width="89" x="-121" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-13" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-11">
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预测粗糙深度&lt;br&gt;3D cache" vertex="1">
+          <mxGeometry height="60" width="120" x="-42" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-63" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="目标视角&lt;div&gt;位姿&lt;/div&gt;" vertex="1">
-          <mxGeometry height="63" width="66" x="57" y="341" as="geometry" />
+          <mxGeometry height="63" width="70" x="54" y="401" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-59" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
@@ -105,14 +92,8 @@
         <mxCell id="Qp7IimhHCW0quF0CK1ch-40" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Qp7IimhHCW0quF0CK1ch-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-52" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="387" />
-              <mxPoint x="720" y="573" />
-            </Array>
-            <mxPoint x="-16" y="573" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-66" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="高几何一致性的&lt;br&gt;新视角RGB图像" vertex="1">
           <mxGeometry height="60" width="120" x="580" y="357" as="geometry" />
@@ -142,17 +123,27 @@
         <mxCell id="Qp7IimhHCW0quF0CK1ch-49" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.441;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" target="Qp7IimhHCW0quF0CK1ch-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-57" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-56">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-69" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Qp7IimhHCW0quF0CK1ch-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="396" y="222" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-53" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="解码器" vertex="1">
-          <mxGeometry height="32" width="97" x="-102" y="561" as="geometry" />
+          <mxGeometry height="32" width="97" x="347.5" y="238" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="非像素对齐" vertex="1">
-          <mxGeometry height="30" width="60" x="-157" y="558" as="geometry" />
+          <mxGeometry height="30" width="60" x="296" y="239" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-56" parent="1" style="whiteSpace=wrap;html=1;" value="完整、无空洞的3D资产" vertex="1">
-          <mxGeometry height="60" width="120" x="-113.5" y="618" as="geometry" />
+          <mxGeometry height="60" width="120" x="495" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-64" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.315;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" target="Qp7IimhHCW0quF0CK1ch-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-65" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.304;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" target="Qp7IimhHCW0quF0CK1ch-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
