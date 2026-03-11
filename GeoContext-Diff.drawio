@@ -21,6 +21,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-50" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-46" y="563" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预测粗糙深度&lt;br&gt;3D cache" vertex="1">
           <mxGeometry height="60" width="120" x="-5" y="424.5" as="geometry" />
         </mxCell>
@@ -97,6 +102,15 @@
         <mxCell id="Qp7IimhHCW0quF0CK1ch-40" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Qp7IimhHCW0quF0CK1ch-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-52" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="387" />
+              <mxPoint x="720" y="573" />
+            </Array>
+            <mxPoint x="-16" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="高几何一致性的&lt;br&gt;新视角RGB图像" vertex="1">
           <mxGeometry height="60" width="120" x="580" y="357" as="geometry" />
         </mxCell>
@@ -124,6 +138,20 @@
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-49" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.441;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" target="Qp7IimhHCW0quF0CK1ch-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-55" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-53.17241379310349" y="614.8228486159753" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-53" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="解码器" vertex="1">
+          <mxGeometry height="32" width="97" x="-102" y="561" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="非像素对齐" vertex="1">
+          <mxGeometry height="30" width="60" x="-157" y="558" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-56" parent="1" style="whiteSpace=wrap;html=1;" value="完整、无空洞的3D资产" vertex="1">
+          <mxGeometry height="60" width="120" x="-113.5" y="618" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
