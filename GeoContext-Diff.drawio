@@ -116,20 +116,14 @@
         <mxCell id="Qp7IimhHCW0quF0CK1ch-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预测深度置信度图" vertex="1">
           <mxGeometry height="60" width="120" x="404" y="478" as="geometry" />
         </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-47" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="55" y="511" />
-              <mxPoint x="55" y="486" />
-            </Array>
-            <mxPoint x="49.83696667901404" y="485.6692589069236" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="置信度过滤" vertex="1">
           <mxGeometry height="60" width="120" x="218" y="481" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="融合" vertex="1">
-          <mxGeometry height="30" width="60" x="87" y="503" as="geometry" />
+          <mxGeometry height="30" width="60" x="76" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-49" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.441;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" target="Qp7IimhHCW0quF0CK1ch-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
