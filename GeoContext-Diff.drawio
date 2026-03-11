@@ -10,8 +10,11 @@
         <mxCell id="Qp7IimhHCW0quF0CK1ch-60" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Qp7IimhHCW0quF0CK1ch-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-74" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(43, 45, 49); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;单张或极少量（如2-3张）参考图像&lt;/span&gt;" vertex="1">
-          <mxGeometry height="66" width="133" x="89" y="199" as="geometry" />
+          <mxGeometry height="66" width="133" x="-22" y="199" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-70" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-5">
           <mxGeometry relative="1" as="geometry" />
@@ -33,11 +36,8 @@
             <mxPoint x="245.44824429216055" y="401.0297451676994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-11" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" value="" vertex="1">
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-11" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" value="条件编码器" vertex="1">
           <mxGeometry height="78" width="44" x="180" y="357" as="geometry" />
-        </mxCell>
-        <mxCell id="Qp7IimhHCW0quF0CK1ch-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="条件编码器" vertex="1">
-          <mxGeometry height="30" width="60" x="172" y="327" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-26" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Qp7IimhHCW0quF0CK1ch-19">
           <mxGeometry relative="1" as="geometry" />
@@ -144,6 +144,12 @@
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-65" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.304;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" target="Qp7IimhHCW0quF0CK1ch-53">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-73" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Qp7IimhHCW0quF0CK1ch-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="图像上下文特征" vertex="1">
+          <mxGeometry height="60" width="120" x="142" y="202" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
