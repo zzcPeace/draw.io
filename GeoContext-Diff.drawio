@@ -80,11 +80,17 @@
         <mxCell id="Qp7IimhHCW0quF0CK1ch-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Conv GRU" vertex="1">
           <mxGeometry height="35" width="48.5" x="368" y="369" as="geometry" />
         </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-38" edge="1" parent="1" source="Qp7IimhHCW0quF0CK1ch-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Qp7IimhHCW0quF0CK1ch-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
           <mxGeometry height="124" width="286" x="253" y="324.75" as="geometry" />
         </mxCell>
         <mxCell id="Qp7IimhHCW0quF0CK1ch-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="扩散模型" vertex="1">
           <mxGeometry height="30" width="102" x="341.25" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp7IimhHCW0quF0CK1ch-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="高几何一致性的&lt;br&gt;新视角RGB图像" vertex="1">
+          <mxGeometry height="60" width="120" x="581" y="356" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
