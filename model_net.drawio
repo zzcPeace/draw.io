@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="fYa3WK03nnpdX74_16EM">
-    <mxGraphModel dx="858" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="LkAkem1tcMUCxKIT7NYj-37" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="LkAkem1tcMUCxKIT7NYj-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LkAkem1tcMUCxKIT7NYj-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="新视角下带空洞的深度图" vertex="1">
+        <mxCell id="LkAkem1tcMUCxKIT7NYj-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="具有未观测区域的全新视角深度" vertex="1">
           <mxGeometry height="60" width="120" x="500" y="240" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-38" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="LkAkem1tcMUCxKIT7NYj-6">
