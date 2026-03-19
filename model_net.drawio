@@ -76,6 +76,9 @@
         <mxCell id="LkAkem1tcMUCxKIT7NYj-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="渲染轨迹" vertex="1">
           <mxGeometry height="30" width="60" x="560" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="eL42GV7rZI4oZbZ1FdoI-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3dgs" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
