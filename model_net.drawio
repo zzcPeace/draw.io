@@ -25,14 +25,11 @@
         <mxCell id="LkAkem1tcMUCxKIT7NYj-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="loss" vertex="1">
           <mxGeometry height="50" width="60" x="380" y="415" as="geometry" />
         </mxCell>
-        <mxCell id="LkAkem1tcMUCxKIT7NYj-24" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LkAkem1tcMUCxKIT7NYj-23" value="">
+        <mxCell id="eL42GV7rZI4oZbZ1FdoI-5" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="LkAkem1tcMUCxKIT7NYj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LkAkem1tcMUCxKIT7NYj-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="完整点云" vertex="1">
+        <mxCell id="LkAkem1tcMUCxKIT7NYj-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="gs重渲染" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="340" as="geometry" />
-        </mxCell>
-        <mxCell id="LkAkem1tcMUCxKIT7NYj-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="3dgs渲染" vertex="1">
-          <mxGeometry height="60" width="120" x="150" y="250" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-26" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LkAkem1tcMUCxKIT7NYj-8" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -60,9 +57,6 @@
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-42" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" target="LkAkem1tcMUCxKIT7NYj-8">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LkAkem1tcMUCxKIT7NYj-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="下采样" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="310" as="geometry" />
         </mxCell>
         <mxCell id="LkAkem1tcMUCxKIT7NYj-48" edge="1" parent="1" source="LkAkem1tcMUCxKIT7NYj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="LkAkem1tcMUCxKIT7NYj-25">
           <mxGeometry relative="1" as="geometry" />
