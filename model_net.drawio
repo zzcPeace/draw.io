@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eL42GV7rZI4oZbZ1FdoI-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N个新视角" vertex="1">
-          <mxGeometry height="30" width="60" x="340" y="180" as="geometry" />
+          <mxGeometry height="30" width="60" x="390" y="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
