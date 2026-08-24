@@ -68,8 +68,8 @@
         <mxCell id="43Pj9Xodgqqzkp28NLDs-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;font-size: 19px&quot;&gt;用语义 surface 和深度/法线平面约束 clean latent 的生成方向&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="250" x="338" y="487" as="geometry" />
         </mxCell>
-        <mxCell id="zsY48DPTeJ2A9uKWUj8I-1" parent="1" style="shape=mxgraph.basic.arc;html=1;startAngle=0.3;endAngle=0.1;endArrow=classic;endFill=1;" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="677" y="233" as="geometry" />
+        <mxCell id="zsY48DPTeJ2A9uKWUj8I-1" parent="1" style="shape=mxgraph.basic.arc;html=1;startAngle=0.3;endAngle=0.24050947724507962;endArrow=block;endFill=1;startSize=2;endSize=2;strokeWidth=4;perimeterSpacing=0;shadow=1;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="682" y="291" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
